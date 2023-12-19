@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "arxiv-downloader"
+  site-url: "https://0xSynth.github.io/arxiv-downloader"
+  description: "Fetch latest papers from arxiv"
+  repo-branch: main
+  repo-url: "https://github.com/0xSynth/arxiv-downloader"
